@@ -4,8 +4,7 @@
 ## events
 [class dojo 2022](https://forms.gle/hLqdqW9FR54oQK1g9)
 ## **resources**
-[felix29 home](https://sites.google.com/view/felix29/home)
-[felix29 neon](https://sites.google.com/view/felix29/neon)
-[felix29 classiftions](https://drive.google.com/file/d/1isNwBvb5IDdSbobvAq9wTbvSw40F25uC/view?usp=sharing)
-[FELIX29 scratch arcade](https://scratch.mit.edu/studios/30149284)
->[hohoho](https://santatracker.google.com/?utm_source=google&utm_medium=hpp&utm_campaign=Global)
+>[felix29 home](https://sites.google.com/view/felix29/home)
+>>[felix29 neon](https://sites.google.com/view/felix29/neon)
+>>>[felix29 classiftions](https://drive.google.com/file/d/1isNwBvb5IDdSbobvAq9wTbvSw40F25uC/view?usp=sharing)
+>>>[FELIX29 scratch arcade](https://scratch.mit.edu/studios/30149284)
