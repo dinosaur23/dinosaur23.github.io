@@ -1,5 +1,4 @@
-# felix29 helping services
-![male](/outline_man_black_24dp.png)
+# felix29 helping services ![male](/outline_man_black_24dp.png) ![female](/outline_woman_black_24dp.png)
 ## introduction
 ### my name is felix, my favorite coluor is 🔵 and this is felix29 helping services
 ## events
