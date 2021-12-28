@@ -12,3 +12,5 @@
 
 ## art
 ![logo](/2021-12-10_16.38.31.png)
+
+![favorite](/outline_favorite_border_black_24dp.png)
