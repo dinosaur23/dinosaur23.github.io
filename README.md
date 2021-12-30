@@ -14,4 +14,4 @@
 ![logo](/2021-12-10_16.38.31.png)
 
 ![favorite](/outline_favorite_border_black_24dp.png)
-<button type = "image" src = "/outline_redeem_black_24dp.png"  onclick = (alert ())></button>
+<button type = "button"  onclick = (alert ())>hi</button>
