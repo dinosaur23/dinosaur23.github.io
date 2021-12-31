@@ -15,5 +15,5 @@
 
 ![favorite](/outline_favorite_border_black_24dp.png)
 ```html
-<button type = "button"  onclick = (alert ())>hi</button>
+<button type = "button"  "onclick = alert ()">hi</button>
 ```
