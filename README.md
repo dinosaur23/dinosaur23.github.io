@@ -9,6 +9,8 @@
 >>
 >>[webmod](https://dinosaur23.github.io/webmod)
 >>
+>>[the board](https://dinosaur23.github.io/board/)
+>>
 >>[activites(old)](https://sites.google.com/view/felix29/activites)
 >>
 >>### felix29 neon
