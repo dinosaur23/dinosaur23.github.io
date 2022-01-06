@@ -25,4 +25,4 @@
 
 ![favorite](/outline_favorite_border_black_24dp.png)
 
-### on mobile [click here]()
+### on mobile [click here](https://dinosaur23.github.io/m)
