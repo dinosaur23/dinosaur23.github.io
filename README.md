@@ -23,4 +23,5 @@
 >>>[FELIX29 scratch arcade](https://scratch.mit.edu/studios/30149284)
 
 ## lastest blog posts
-### coming soon
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
