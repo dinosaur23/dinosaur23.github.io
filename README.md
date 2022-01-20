@@ -15,16 +15,10 @@
 >>
 >>[tasks](https://dinosaur23.github.io/tasks/)
 >>
->>### felix29 neon
->>>[neon  home](https://sites.google.com/view/felix29n/page_1)
+>>### felix29 bundle packs
+>>>[felix29 neon](https://sites.google.com/view/felix29n/page_1)
 >>>
->>>[felix29 classiftions](https://drive.google.com/file/d/1isNwBvb5IDdSbobvAq9wTbvSw40F25uC/view?usp=sharing)
+>>>[]()
 >>>
 >>>[FELIX29 scratch arcade](https://scratch.mit.edu/studios/30149284)
 
-## lastest blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
