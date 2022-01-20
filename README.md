@@ -5,7 +5,7 @@
 ### no events
 ## **resources**
 >### felix29 home
->>[games](https://sites.google.com/view/felix29/games)
+>>[games](https://dinosaur23.github.io/play/)
 >>
 >>[webmod](https://dinosaur23.github.io/webmod)
 >>
