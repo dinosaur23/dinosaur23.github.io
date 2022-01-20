@@ -25,3 +25,4 @@
 ## lastest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
