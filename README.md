@@ -7,6 +7,8 @@
 >### felix29 home
 >>[games](https://dinosaur23.github.io/play/)
 >>
+>>[forums](https://felix29.forumotion.com/)
+>>
 >>[webmod](https://dinosaur23.github.io/webmod)
 >>
 >>[the board](https://dinosaur23.github.io/board/)
