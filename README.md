@@ -11,7 +11,7 @@
 >>
 >>[webmod](https://dinosaur23.github.io/webmod)
 >>
->>[the board](https://dinosaur23.github.io/board/)
+>>[the board](https://fell29.wordpress.com)
 >>
 >>[activites(old)](https://sites.google.com/view/felix29/activites)
 >>
