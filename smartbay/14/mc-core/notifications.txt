@@ -1,0 +1,4 @@
+if (notify) = true {
+read (/notify)
+voice = read
+}

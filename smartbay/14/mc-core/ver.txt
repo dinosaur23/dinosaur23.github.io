@@ -1,0 +1,4 @@
+ver = (14)
+dotedition = (.3)
+accesbycommad = true
+command = ("ver"), ("info")

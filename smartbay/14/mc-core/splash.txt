@@ -1,0 +1,2 @@
+voice = ("smartbay" ver)
+goto = (home)

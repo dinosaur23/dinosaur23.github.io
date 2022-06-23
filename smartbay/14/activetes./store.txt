@@ -1,0 +1,5 @@
+read = (webstore)
+webstore = (http://dinosaur23.github.io/smartbay)
+if success {
+voice = (webstore)
+}

@@ -1,0 +1,4 @@
+read = (http://dinosaur23.github.io/smartbay)
+select = (latest)
+write to (/)
+/reboot 
