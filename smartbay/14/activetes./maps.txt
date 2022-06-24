@@ -1,0 +1,12 @@
+eye = (read)
+if sign = true {
+voice = (eye)
+}
+input = (destiation)
+if at (destiation) {
+voice = ("you are at ", destiation)
+survey {
+voice = ("out of 10 what was your expernice with smartbay maps")
+rate (max = 10)
+}
+} 

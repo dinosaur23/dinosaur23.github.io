@@ -1,0 +1,7 @@
+input = user, (send)
+
+input = user, (recive)
+
+input = message, (body)
+
+mcaresend = to = (recive)
