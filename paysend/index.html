@@ -1,18 +1,17 @@
 <script>
- function toggleText() {
-  var text = document.getElementById("demo");
-  if (text.style.display === "none") {
-    text.style.display = "block";
-  } else {
-    text.style.display = "none";
-  }
+ function sConsole(event) {
+  event.preventDefault();
+  var data = document.getElementById("data");
+  console.log(data.value);
+  
 }
 </script>
+<form>
 <p>payment ID example(BANK-XXXX-XXXX)</p>
-<input type="text"></input>
+<input id="data" type="text"></input>
 <br>
 <p>amount payed</p>
-<input type="number"></input>
+<input id="data" type="number"></input>
 <br>
-<p id='demo' style='display: none'>payment accepted</p>
-<button type="reset" onclick="toggletext()">send / pay</button>
+<button type="reset" onclick="sConsole(event)">send / pay</button>
+</form>
