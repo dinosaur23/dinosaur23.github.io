@@ -1,0 +1,18 @@
+<script>
+ function toggleText() {
+  var text = document.getElementById("demo");
+  if (text.style.display === "none") {
+    text.style.display = "block";
+  } else {
+    text.style.display = "none";
+  }
+}
+</script>
+<p>payment ID example(BANK-XXXX-XXXX)</p>
+<input type="text"></input>
+<br>
+<p>amount payed</p>
+<input type="number"></input>
+<br>
+<p id='demo' style='display: none'>payment accepted</p>
+<button onclick=toggletext()>send / pay</button>
